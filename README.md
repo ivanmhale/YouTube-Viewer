@@ -7,4 +7,5 @@ View YouTube videos, nothing special to see here. This is Ivan Hale's first GitH
 3. Personalized CSS
 
 [Link to app](https://ivanmhale.github.io/YouTube-Viewer/)
+
 [Link to project course](https://www.udemy.com/react-redux/learn/v4/overview)
